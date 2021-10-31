@@ -15,5 +15,5 @@ Roberto Goelzer
 
 
 PS: Je rajouterais peut-être plus tard une version utilisable de mon code – sûrement un dossier drive avec un fichier google colab, ou bien un site où l'on peut déposer un fichier midi et obtenir le fichier avec batterie en retour. 
-Cela dépasse l'envergure de mon TM, mais je pense que ça a tout de même une valeur instructuve non-négligeable.
+Cela dépasse l'envergure de mon TM, mais je pense que ça a tout de même une valeur apportée non-négligeable.
 J'y réfléchirai.
