@@ -13,7 +13,7 @@ Finalement, j'ai rajouté un extrait avec uniquement le rythme généré ('only-
 En outre, j'ai désormais codé un petit site internet en python pour que tout le monde puisse utiliser librement mon algorithme. Il suffit d'y déposer un fichier MIDI sans batterie pour ensuite obtenir un nouveau fichier MIDI avec la batterie générée automatiquement. J'encourage toute personne à essayer le site et à me donner du feedback sur ce dernier et la qualité du produit fini.
 L'adresse du site est: http://RobertoGoelzerTM.pythonanywhere.com/
 
-Je mets aussi désormais à disposition mon travail de maturité, aussi bien ici que sur mon site internet.
+Je mets aussi désormais à disposition mon travail de maturité complet ('GOELZER_Roberto-2021.pdf'), aussi bien ici que sur mon site internet.
 
 
 Bonne lecture,
