@@ -10,10 +10,11 @@ Ensuite, on trouve le rythme de batterie généré, accompagné des autres instr
 Finalement, j'ai rajouté un extrait avec uniquement le rythme généré ('only-generated-drums.mp3'), pour mieux apprécier les légères variations de vélocité et de micro-timing, infimes mais toujours perceptibles.
 
 
+En outre, j'ai désormais codé un petit site internet en python pour que tout le monde puisse utiliser librement mon algorithme. Il suffit d'y déposer un fichier MIDI sans batterie pour ensuite obtenir un nouveau fichier MIDI avec la batterie générée automatiquement. J'encourage toute personne à essayer le site et à me donner du feedback sur ce dernier et la qualité du produit fini.
+L'adresse du site est: http://RobertoGoelzerTM.pythonanywhere.com/
+
+Je mets aussi désormais à disposition mon travail de maturité, aussi bien ici que sur mon site internet.
+
+
 Bonne lecture,
 Roberto Goelzer
-
-
-PS: Je rajouterais peut-être plus tard une version utilisable de mon code – sûrement un dossier drive avec un fichier google colab, ou bien un site où l'on peut déposer un fichier midi et obtenir le fichier avec batterie en retour. 
-Cela dépasse l'envergure de mon TM, mais je pense que ça a tout de même une valeur apportée non-négligeable.
-J'y réfléchirai
